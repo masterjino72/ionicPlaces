@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">myFirstProject</string>
+    <string name="title_activity_main">myFirstProject</string>
+    <string name="package_name">com.masterjino.app</string>
+    <string name="custom_url_scheme">com.masterjino.app</string>
+</resources>
